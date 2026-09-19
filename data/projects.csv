@@ -1,0 +1,121 @@
+project_id,project_name,department,project_manager_id,project_type,priority,status,start_date,planned_end_date,actual_end_date,budget,actual_cost
+PRJ001,"Technology Initiative 1",Procurement,PM009,Technology,Medium,Completed,2024-02-07,2024-09-03,2024-10-07,1223936.52,1307621.37
+PRJ002,"Digital Transformation Upgrade 2",HR,PM004,"Digital Transformation",Medium,"At Risk",2024-01-25,2024-07-14,2024-11-29,713488.51,609617.30
+PRJ003,"Digital Transformation Transformation 3",IT,PM002,"Digital Transformation",Low,"At Risk",2024-10-09,2025-01-29,2025-06-25,1095644.78,1249682.05
+PRJ004,"Process Improvement Implementation 4",IT,PM009,"Process Improvement",High,"In Progress",2024-06-19,2024-12-24,NULL,1423915.08,466324.54
+PRJ005,"Infrastructure Upgrade 5",Operations,PM002,Infrastructure,High,"In Progress",2024-08-21,2025-05-24,NULL,367175.49,188420.66
+PRJ006,"Compliance Initiative 6",Procurement,PM002,Compliance,High,"In Progress",2024-04-06,2025-02-26,NULL,789938.11,705978.76
+PRJ007,"Technology Upgrade 7",Finance,PM006,Technology,Medium,Completed,2024-06-13,2025-01-26,2025-01-04,461416.54,545797.13
+PRJ008,"Digital Transformation Upgrade 8",Finance,PM008,"Digital Transformation",High,"In Progress",2024-03-09,2024-08-17,NULL,530923.64,338103.26
+PRJ009,"Digital Transformation Programme 9",Procurement,PM010,"Digital Transformation",High,"In Progress",2024-04-05,2025-03-21,NULL,1012355.88,762779.07
+PRJ010,"Business Change Programme 10",Finance,PM003,"Business Change",Medium,Completed,2024-07-20,2025-06-14,2025-07-21,540257.53,575897.11
+PRJ011,"Business Change Upgrade 11",Procurement,PM002,"Business Change",High,Delayed,2024-11-11,2025-04-07,2025-07-21,897792.24,860806.16
+PRJ012,"Compliance Implementation 12",Marketing,PM003,Compliance,Critical,"At Risk",2024-05-27,2025-07-18,2025-12-24,1237491.91,1056191.60
+PRJ013,"Technology Initiative 13",Marketing,PM009,Technology,Medium,"In Progress",2024-02-12,2024-10-16,NULL,516932.01,229788.14
+PRJ014,"Business Change Implementation 14",IT,PM002,"Business Change",Medium,Completed,2024-09-25,2025-02-26,2025-02-12,1336514.10,1582505.67
+PRJ015,"Compliance Upgrade 15",Operations,PM009,Compliance,Medium,Completed,2024-09-25,2025-12-12,2025-12-07,1440250.50,1468620.11
+PRJ016,"Digital Transformation Programme 16",HR,PM009,"Digital Transformation",Low,Completed,2024-06-01,2025-06-27,2025-08-06,498723.73,481799.65
+PRJ017,"Infrastructure Initiative 17",Procurement,PM001,Infrastructure,Low,Completed,2024-06-03,2025-05-22,2025-05-22,593030.66,620087.30
+PRJ018,"Compliance Transformation 18",Finance,PM010,Compliance,Medium,Delayed,2024-07-07,2024-11-22,2025-01-15,1335016.36,1233560.65
+PRJ019,"Business Change Implementation 19",HR,PM001,"Business Change",High,"In Progress",2024-01-13,2024-10-02,NULL,1611155.40,588976.25
+PRJ020,"Digital Transformation Programme 20",Finance,PM009,"Digital Transformation",Low,Completed,2024-08-08,2024-12-14,2025-01-09,1625643.38,1880528.12
+PRJ021,"Technology Programme 21",IT,PM009,Technology,Critical,"At Risk",2024-04-06,2025-01-29,2025-07-02,988648.92,1090111.62
+PRJ022,"Technology Initiative 22",Finance,PM007,Technology,Critical,Completed,2024-08-10,2025-06-12,2025-08-10,1916769.40,2297491.19
+PRJ023,"Infrastructure Initiative 23",Procurement,PM008,Infrastructure,Medium,Completed,2024-01-19,2025-01-20,2024-12-28,1508552.34,1383568.15
+PRJ024,"Compliance Implementation 24",HR,PM009,Compliance,Medium,"On Hold",2024-02-28,2024-08-31,NULL,183616.60,62572.23
+PRJ025,"Compliance Upgrade 25",HR,PM002,Compliance,Medium,"In Progress",2024-10-03,2025-08-03,NULL,1331877.67,851251.17
+PRJ026,"Business Change Programme 26",Operations,PM004,"Business Change",High,Completed,2024-07-05,2025-09-11,2025-11-02,634994.31,631726.10
+PRJ027,"Compliance Upgrade 27",IT,PM008,Compliance,Critical,"On Hold",2024-02-18,2024-09-04,NULL,1036475.15,393315.31
+PRJ028,"Process Improvement Initiative 28",IT,PM004,"Process Improvement",Medium,"In Progress",2024-09-23,2025-05-25,NULL,1242771.64,1108974.64
+PRJ029,"Process Improvement Upgrade 29",IT,PM009,"Process Improvement",Critical,Completed,2024-03-09,2024-08-05,2024-07-19,1497712.53,1417786.16
+PRJ030,"Business Change Programme 30",Marketing,PM004,"Business Change",Medium,Delayed,2024-05-17,2025-04-22,2025-07-25,1815406.16,1989932.59
+PRJ031,"Process Improvement Transformation 31",Procurement,PM007,"Process Improvement",Low,"In Progress",2024-03-21,2024-10-31,NULL,365084.85,206309.93
+PRJ032,"Technology Implementation 32",Marketing,PM001,Technology,Low,"At Risk",2024-03-18,2024-07-04,2024-11-05,1185893.65,1010183.14
+PRJ033,"Process Improvement Initiative 33",IT,PM005,"Process Improvement",High,Delayed,2024-01-12,2024-07-27,2024-10-28,1350520.15,1247593.66
+PRJ034,"Business Change Upgrade 34",HR,PM010,"Business Change",Medium,"At Risk",2024-03-26,2024-09-22,2025-02-04,98333.41,104016.84
+PRJ035,"Process Improvement Transformation 35",HR,PM004,"Process Improvement",Medium,Delayed,2024-07-28,2024-11-14,2025-04-13,483745.75,525253.70
+PRJ036,"Infrastructure Initiative 36",Operations,PM005,Infrastructure,Medium,Delayed,2024-07-11,2025-02-28,2025-04-16,1935433.75,1737426.78
+PRJ037,"Process Improvement Upgrade 37",HR,PM009,"Process Improvement",Critical,Completed,2024-05-06,2025-05-28,2025-05-31,124601.53,134441.48
+PRJ038,"Digital Transformation Programme 38",Procurement,PM006,"Digital Transformation",High,"In Progress",2024-07-19,2025-01-22,NULL,546708.89,396512.20
+PRJ039,"Business Change Upgrade 39",Marketing,PM009,"Business Change",High,Delayed,2024-11-07,2025-08-10,2025-12-28,186448.93,192505.39
+PRJ040,"Business Change Initiative 40",Marketing,PM006,"Business Change",High,Delayed,2024-05-17,2025-01-20,2025-06-03,686056.66,716258.89
+PRJ041,"Digital Transformation Programme 41",Finance,PM004,"Digital Transformation",High,"In Progress",2024-12-06,2026-01-15,NULL,1159755.25,630495.26
+PRJ042,"Infrastructure Initiative 42",Operations,PM005,Infrastructure,Medium,"In Progress",2024-11-11,2025-10-05,NULL,911482.73,642938.35
+PRJ043,"Business Change Implementation 43",HR,PM003,"Business Change",Low,"In Progress",2024-11-20,2025-08-08,NULL,232105.04,202209.86
+PRJ044,"Infrastructure Transformation 44",Procurement,PM005,Infrastructure,High,Completed,2024-01-08,2024-12-06,2025-01-23,1706988.50,1573584.73
+PRJ045,"Infrastructure Programme 45",Procurement,PM010,Infrastructure,High,"In Progress",2024-07-08,2024-12-20,NULL,1329313.12,403216.42
+PRJ046,"Infrastructure Implementation 46",HR,PM004,Infrastructure,High,Delayed,2024-08-02,2025-08-12,2025-11-13,1839066.53,1549368.51
+PRJ047,"Compliance Transformation 47",HR,PM009,Compliance,Medium,"On Hold",2024-08-20,2025-08-03,NULL,882144.48,744629.48
+PRJ048,"Digital Transformation Programme 48",Finance,PM008,"Digital Transformation",Medium,Completed,2024-11-09,2025-10-31,2025-12-02,1272159.45,1249743.03
+PRJ049,"Infrastructure Implementation 49",Procurement,PM005,Infrastructure,Medium,"In Progress",2024-09-03,2025-02-10,NULL,344119.78,182321.95
+PRJ050,"Technology Initiative 50",Procurement,PM004,Technology,Medium,"In Progress",2024-08-14,2024-12-13,NULL,453327.06,250275.57
+PRJ051,"Compliance Initiative 51",Procurement,PM001,Compliance,Medium,Completed,2024-06-10,2025-03-26,2025-04-18,1099530.11,1231902.78
+PRJ052,"Infrastructure Implementation 52",Finance,PM008,Infrastructure,Medium,"In Progress",2024-07-11,2025-09-16,NULL,1374326.68,745695.92
+PRJ053,"Compliance Transformation 53",HR,PM003,Compliance,Medium,"At Risk",2024-10-19,2025-12-22,2026-01-27,213697.55,203015.76
+PRJ054,"Process Improvement Upgrade 54",Finance,PM001,"Process Improvement",Medium,Completed,2024-06-11,2025-03-22,2025-03-27,1516419.16,1743241.02
+PRJ055,"Technology Programme 55",IT,PM008,Technology,High,Completed,2024-06-08,2025-08-04,2025-07-13,1573404.45,1723706.11
+PRJ056,"Technology Upgrade 56",Finance,PM004,Technology,High,Completed,2024-08-22,2025-01-17,2025-02-28,1898126.19,1973121.53
+PRJ057,"Compliance Upgrade 57",Operations,PM003,Compliance,High,Delayed,2024-02-25,2024-08-16,2024-12-03,260792.56,210977.91
+PRJ058,"Digital Transformation Initiative 58",Marketing,PM007,"Digital Transformation",Critical,Completed,2024-10-23,2025-12-08,2025-12-09,248707.55,281473.34
+PRJ059,"Technology Transformation 59",IT,PM010,Technology,Medium,"In Progress",2024-06-03,2025-05-18,NULL,1312709.35,403777.96
+PRJ060,"Digital Transformation Upgrade 60",HR,PM002,"Digital Transformation",Critical,"In Progress",2024-08-23,2025-02-07,NULL,899199.93,665657.19
+PRJ061,"Digital Transformation Transformation 61",Marketing,PM009,"Digital Transformation",Medium,"At Risk",2024-10-09,2025-06-21,2025-09-21,1669925.49,1386592.60
+PRJ062,"Compliance Upgrade 62",Finance,PM008,Compliance,High,"In Progress",2024-01-16,2024-09-28,NULL,404587.72,172868.97
+PRJ063,"Compliance Initiative 63",Operations,PM005,Compliance,High,Completed,2024-01-17,2024-07-22,2024-07-02,520644.30,532061.22
+PRJ064,"Business Change Upgrade 64",Finance,PM008,"Business Change",High,"In Progress",2024-01-03,2024-08-30,NULL,482112.98,344745.63
+PRJ065,"Process Improvement Upgrade 65",Procurement,PM010,"Process Improvement",Medium,"In Progress",2024-07-24,2025-07-30,NULL,695043.03,501621.57
+PRJ066,"Infrastructure Transformation 66",Operations,PM005,Infrastructure,Low,Completed,2024-02-24,2025-02-22,2025-04-21,411042.19,396620.94
+PRJ067,"Compliance Initiative 67",Operations,PM010,Compliance,Medium,"On Hold",2024-04-10,2024-11-02,NULL,753718.08,362810.15
+PRJ068,"Technology Programme 68",Finance,PM005,Technology,Critical,"In Progress",2024-12-05,2026-01-25,NULL,1743499.33,1036557.80
+PRJ069,"Digital Transformation Transformation 69",Marketing,PM005,"Digital Transformation",Medium,"In Progress",2024-01-09,2024-12-08,NULL,272469.92,92423.45
+PRJ070,"Business Change Initiative 70",IT,PM010,"Business Change",High,Completed,2024-10-10,2025-02-20,2025-02-21,280980.55,317320.62
+PRJ071,"Infrastructure Initiative 71",Marketing,PM010,Infrastructure,High,"In Progress",2024-08-10,2025-09-05,NULL,1980560.96,957062.80
+PRJ072,"Business Change Programme 72",IT,PM010,"Business Change",Low,Delayed,2024-11-07,2025-06-20,2025-08-09,356261.33,306682.13
+PRJ073,"Digital Transformation Transformation 73",Finance,PM001,"Digital Transformation",Medium,"In Progress",2024-05-02,2024-11-26,NULL,611804.53,287322.39
+PRJ074,"Process Improvement Implementation 74",IT,PM004,"Process Improvement",High,"In Progress",2024-11-26,2025-06-05,NULL,879020.98,550915.35
+PRJ075,"Technology Upgrade 75",Operations,PM003,Technology,Low,Delayed,2024-10-24,2025-11-09,2026-02-20,906349.22,873760.79
+PRJ076,"Process Improvement Initiative 76",Procurement,PM007,"Process Improvement",Medium,"In Progress",2024-02-20,2024-06-09,NULL,1784374.63,1321722.61
+PRJ077,"Technology Implementation 77",Operations,PM001,Technology,Medium,Delayed,2024-10-19,2025-01-27,2025-05-05,1173681.62,1252421.75
+PRJ078,"Business Change Transformation 78",HR,PM009,"Business Change",Medium,Completed,2024-10-14,2025-12-03,2026-01-04,1939657.71,2019189.72
+PRJ079,"Business Change Initiative 79",Operations,PM006,"Business Change",Low,Completed,2024-07-23,2025-07-01,2025-07-07,1342037.90,1369060.74
+PRJ080,"Technology Initiative 80",IT,PM008,Technology,Medium,"In Progress",2024-07-28,2025-07-16,NULL,1658608.05,498727.92
+PRJ081,"Technology Initiative 81",HR,PM007,Technology,Medium,"In Progress",2024-08-21,2025-07-03,NULL,1531981.55,646702.94
+PRJ082,"Digital Transformation Upgrade 82",Finance,PM005,"Digital Transformation",High,"In Progress",2024-01-21,2025-02-25,NULL,1608661.78,1167678.84
+PRJ083,"Compliance Upgrade 83",Marketing,PM001,Compliance,Medium,Completed,2024-02-15,2024-07-14,2024-09-04,1672679.19,1755497.97
+PRJ084,"Digital Transformation Initiative 84",Marketing,PM005,"Digital Transformation",High,"On Hold",2024-04-15,2025-04-22,NULL,332051.84,137591.07
+PRJ085,"Technology Upgrade 85",Marketing,PM003,Technology,Medium,Delayed,2024-07-11,2025-06-25,2025-10-01,1650071.47,1483403.76
+PRJ086,"Business Change Transformation 86",Marketing,PM010,"Business Change",Medium,Completed,2024-09-16,2025-06-09,2025-06-21,1126238.96,1197224.70
+PRJ087,"Business Change Transformation 87",Operations,PM004,"Business Change",Medium,"In Progress",2024-07-02,2025-03-11,NULL,1502175.05,1086277.95
+PRJ088,"Digital Transformation Programme 88",HR,PM003,"Digital Transformation",Critical,Completed,2024-10-11,2025-03-01,2025-03-27,244437.81,286757.94
+PRJ089,"Digital Transformation Programme 89",Procurement,PM003,"Digital Transformation",High,"On Hold",2024-02-16,2024-09-28,NULL,710194.41,508231.28
+PRJ090,"Digital Transformation Upgrade 90",Operations,PM009,"Digital Transformation",Critical,"In Progress",2024-08-28,2025-08-30,NULL,120003.24,40927.40
+PRJ091,"Digital Transformation Programme 91",Finance,PM002,"Digital Transformation",Critical,Delayed,2024-12-28,2025-05-18,2025-10-08,374411.33,338772.29
+PRJ092,"Technology Implementation 92",IT,PM006,Technology,Medium,"In Progress",2024-03-08,2025-03-04,NULL,853500.91,605200.62
+PRJ093,"Technology Transformation 93",Finance,PM003,Technology,High,"In Progress",2024-11-08,2025-10-18,NULL,1830016.58,706149.65
+PRJ094,"Digital Transformation Upgrade 94",Procurement,PM005,"Digital Transformation",Medium,Completed,2024-08-10,2025-10-20,2025-11-28,358052.46,369695.94
+PRJ095,"Business Change Programme 95",Marketing,PM005,"Business Change",Critical,Delayed,2024-08-28,2025-04-29,2025-07-18,1998778.45,2195992.74
+PRJ096,"Compliance Programme 96",Finance,PM007,Compliance,Medium,Completed,2024-12-10,2025-03-21,2025-05-14,821821.19,741635.59
+PRJ097,"Process Improvement Implementation 97",Marketing,PM008,"Process Improvement",High,Completed,2024-06-08,2025-07-28,2025-07-22,1260737.77,1391008.97
+PRJ098,"Business Change Upgrade 98",Procurement,PM002,"Business Change",High,"In Progress",2024-08-02,2025-08-23,NULL,761479.40,288484.25
+PRJ099,"Infrastructure Transformation 99",Operations,PM007,Infrastructure,Medium,Delayed,2024-06-17,2025-05-29,2025-09-05,1669421.61,1485684.28
+PRJ100,"Technology Initiative 100",Operations,PM006,Technology,Medium,Completed,2024-04-28,2025-07-08,2025-09-02,1960887.37,2333810.74
+PRJ101,"Digital Transformation Transformation 101",Operations,PM002,"Digital Transformation",Low,"In Progress",2024-08-12,2025-10-20,NULL,1510572.63,690780.10
+PRJ102,"Technology Programme 102",Procurement,PM006,Technology,High,"In Progress",2024-10-18,2025-07-02,NULL,1834749.02,794116.66
+PRJ103,"Business Change Programme 103",Procurement,PM008,"Business Change",Medium,"In Progress",2024-03-02,2024-06-19,NULL,643510.94,383258.88
+PRJ104,"Infrastructure Implementation 104",Finance,PM009,Infrastructure,Medium,"In Progress",2024-12-23,2025-12-24,NULL,867297.17,646449.84
+PRJ105,"Digital Transformation Implementation 105",HR,PM002,"Digital Transformation",High,"At Risk",2024-05-02,2025-07-19,2025-11-20,473675.89,452665.31
+PRJ106,"Business Change Transformation 106",Operations,PM002,"Business Change",Medium,"At Risk",2024-11-12,2025-03-13,2025-07-22,587968.81,669621.45
+PRJ107,"Business Change Initiative 107",IT,PM004,"Business Change",High,"On Hold",2024-01-26,2024-10-12,NULL,524959.35,197150.76
+PRJ108,"Compliance Implementation 108",Finance,PM002,Compliance,Medium,Completed,2024-04-11,2024-09-23,2024-11-08,55529.33,64276.41
+PRJ109,"Process Improvement Upgrade 109",Finance,PM009,"Process Improvement",High,Completed,2024-01-05,2024-04-11,2024-04-26,1590470.10,1544950.02
+PRJ110,"Process Improvement Initiative 110",IT,PM003,"Process Improvement",Low,Delayed,2024-09-04,2025-01-04,2025-06-04,924136.67,856410.06
+PRJ111,"Compliance Programme 111",IT,PM008,Compliance,Medium,"In Progress",2024-12-26,2026-02-26,NULL,1066829.87,613241.03
+PRJ112,"Digital Transformation Implementation 112",IT,PM008,"Digital Transformation",Medium,Completed,2024-12-15,2025-04-21,2025-04-01,678118.05,640482.60
+PRJ113,"Business Change Programme 113",Operations,PM010,"Business Change",Medium,Delayed,2024-07-20,2025-07-16,2025-10-29,934745.06,945867.94
+PRJ114,"Business Change Upgrade 114",Procurement,PM002,"Business Change",High,Delayed,2024-12-28,2025-07-16,2025-12-03,930532.09,818842.88
+PRJ115,"Digital Transformation Transformation 115",HR,PM007,"Digital Transformation",High,"In Progress",2024-06-22,2025-01-28,NULL,779887.00,305390.77
+PRJ116,"Technology Initiative 116",IT,PM002,Technology,Low,Completed,2024-12-12,2025-05-17,2025-06-27,166962.91,198182.87
+PRJ117,"Digital Transformation Initiative 117",Operations,PM002,"Digital Transformation",Medium,Delayed,2024-07-28,2024-11-21,2025-03-04,1220799.68,1126891.09
+PRJ118,"Infrastructure Implementation 118",Marketing,PM004,Infrastructure,High,Completed,2024-02-12,2025-02-20,2025-03-09,274026.36,269524.23
+PRJ119,"Compliance Implementation 119",HR,PM009,Compliance,High,"In Progress",2024-01-20,2025-03-21,NULL,1667448.54,767807.75
+PRJ120,"Process Improvement Programme 120",Operations,PM005,"Process Improvement",Medium,Completed,2024-03-19,2025-05-19,2025-06-09,185691.57,208399.93

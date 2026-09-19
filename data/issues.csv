@@ -1,0 +1,309 @@
+issue_id,project_id,issue_category,description,severity,status,date_raised,date_resolved
+ISS001,PRJ001,Quality,"Quality issue requiring project team attention",Medium,"In Progress",2025-08-04,NULL
+ISS002,PRJ001,Resource,"Resource issue requiring project team attention",Medium,Escalated,2025-06-27,NULL
+ISS003,PRJ002,Communication,"Communication issue requiring project team attention",High,Escalated,2025-06-14,NULL
+ISS004,PRJ002,Communication,"Communication issue requiring project team attention",High,"In Progress",2025-05-11,NULL
+ISS005,PRJ002,Supplier,"Supplier issue requiring project team attention",High,"In Progress",2025-08-11,NULL
+ISS006,PRJ002,Resource,"Resource issue requiring project team attention",Critical,Resolved,2025-05-24,2025-07-10
+ISS007,PRJ003,Supplier,"Supplier issue requiring project team attention",High,Resolved,2025-07-09,2025-09-02
+ISS008,PRJ003,Communication,"Communication issue requiring project team attention",Medium,Open,2025-10-07,NULL
+ISS009,PRJ003,Supplier,"Supplier issue requiring project team attention",Critical,"In Progress",2025-11-25,NULL
+ISS010,PRJ003,Supplier,"Supplier issue requiring project team attention",Low,Escalated,2025-12-07,NULL
+ISS011,PRJ004,Communication,"Communication issue requiring project team attention",Medium,Open,2025-07-22,NULL
+ISS012,PRJ004,Schedule,"Schedule issue requiring project team attention",Low,Resolved,2025-04-09,2025-05-24
+ISS013,PRJ004,Resource,"Resource issue requiring project team attention",High,Escalated,2025-02-15,NULL
+ISS014,PRJ004,Supplier,"Supplier issue requiring project team attention",Medium,Escalated,2025-09-17,NULL
+ISS015,PRJ005,Supplier,"Supplier issue requiring project team attention",Low,Resolved,2025-12-26,2026-02-01
+ISS016,PRJ005,Supplier,"Supplier issue requiring project team attention",Medium,Open,2025-02-25,NULL
+ISS017,PRJ005,Resource,"Resource issue requiring project team attention",Medium,Resolved,2025-03-21,2025-05-02
+ISS018,PRJ005,Technical,"Technical issue requiring project team attention",Medium,Escalated,2025-06-26,NULL
+ISS019,PRJ006,Technical,"Technical issue requiring project team attention",Low,Resolved,2025-04-17,2025-06-06
+ISS020,PRJ006,Supplier,"Supplier issue requiring project team attention",Medium,"In Progress",2025-08-12,NULL
+ISS021,PRJ006,Schedule,"Schedule issue requiring project team attention",Medium,"In Progress",2025-06-01,NULL
+ISS022,PRJ006,Schedule,"Schedule issue requiring project team attention",Low,Escalated,2025-02-04,NULL
+ISS023,PRJ007,Budget,"Budget issue requiring project team attention",Medium,Escalated,2025-04-17,NULL
+ISS024,PRJ007,Schedule,"Schedule issue requiring project team attention",Medium,Open,2025-08-24,NULL
+ISS025,PRJ008,Budget,"Budget issue requiring project team attention",Low,Open,2025-12-04,NULL
+ISS026,PRJ008,Technical,"Technical issue requiring project team attention",High,Open,2025-11-26,NULL
+ISS027,PRJ008,Resource,"Resource issue requiring project team attention",High,"In Progress",2025-09-06,NULL
+ISS028,PRJ008,Supplier,"Supplier issue requiring project team attention",Low,Escalated,2025-08-08,NULL
+ISS029,PRJ009,Quality,"Quality issue requiring project team attention",Low,Escalated,2025-07-01,NULL
+ISS030,PRJ009,Quality,"Quality issue requiring project team attention",Medium,"In Progress",2025-08-19,NULL
+ISS031,PRJ009,Schedule,"Schedule issue requiring project team attention",Medium,"In Progress",2025-04-09,NULL
+ISS032,PRJ009,Communication,"Communication issue requiring project team attention",High,Open,2025-10-04,NULL
+ISS033,PRJ010,Budget,"Budget issue requiring project team attention",Medium,Escalated,2025-02-09,NULL
+ISS034,PRJ010,Quality,"Quality issue requiring project team attention",High,Resolved,2025-10-13,2025-11-24
+ISS035,PRJ011,Supplier,"Supplier issue requiring project team attention",Low,Resolved,2025-08-20,2025-09-03
+ISS036,PRJ011,Communication,"Communication issue requiring project team attention",Medium,Resolved,2025-10-19,2025-10-27
+ISS037,PRJ011,Quality,"Quality issue requiring project team attention",Low,Open,2025-04-10,NULL
+ISS038,PRJ011,Technical,"Technical issue requiring project team attention",Low,"In Progress",2025-09-13,NULL
+ISS039,PRJ012,Supplier,"Supplier issue requiring project team attention",Low,Escalated,2025-07-06,NULL
+ISS040,PRJ012,Schedule,"Schedule issue requiring project team attention",Medium,"In Progress",2025-09-06,NULL
+ISS041,PRJ012,Schedule,"Schedule issue requiring project team attention",Medium,"In Progress",2025-06-27,NULL
+ISS042,PRJ012,Schedule,"Schedule issue requiring project team attention",Medium,Resolved,2025-01-16,2025-01-27
+ISS043,PRJ013,Communication,"Communication issue requiring project team attention",Medium,Escalated,2025-07-22,NULL
+ISS044,PRJ013,Schedule,"Schedule issue requiring project team attention",Medium,Escalated,2025-08-06,NULL
+ISS045,PRJ014,Supplier,"Supplier issue requiring project team attention",Low,"In Progress",2025-05-02,NULL
+ISS046,PRJ015,Resource,"Resource issue requiring project team attention",Medium,"In Progress",2025-08-19,NULL
+ISS047,PRJ015,Quality,"Quality issue requiring project team attention",High,Escalated,2025-09-17,NULL
+ISS048,PRJ015,Technical,"Technical issue requiring project team attention",Medium,Resolved,2025-09-27,2025-10-23
+ISS049,PRJ016,Communication,"Communication issue requiring project team attention",High,"In Progress",2025-07-04,NULL
+ISS050,PRJ017,Budget,"Budget issue requiring project team attention",High,Open,2025-08-09,NULL
+ISS051,PRJ017,Budget,"Budget issue requiring project team attention",High,Open,2025-08-28,NULL
+ISS052,PRJ018,Communication,"Communication issue requiring project team attention",High,"In Progress",2025-12-19,NULL
+ISS053,PRJ019,Communication,"Communication issue requiring project team attention",High,Escalated,2025-03-20,NULL
+ISS054,PRJ019,Resource,"Resource issue requiring project team attention",High,"In Progress",2025-01-19,NULL
+ISS055,PRJ019,Budget,"Budget issue requiring project team attention",Medium,"In Progress",2025-06-23,NULL
+ISS056,PRJ020,Budget,"Budget issue requiring project team attention",Medium,Open,2025-03-25,NULL
+ISS057,PRJ020,Communication,"Communication issue requiring project team attention",Medium,Open,2025-05-28,NULL
+ISS058,PRJ020,Quality,"Quality issue requiring project team attention",Low,"In Progress",2025-04-05,NULL
+ISS059,PRJ021,Communication,"Communication issue requiring project team attention",Low,Escalated,2025-08-05,NULL
+ISS060,PRJ021,Supplier,"Supplier issue requiring project team attention",Medium,Escalated,2025-07-15,NULL
+ISS061,PRJ021,Technical,"Technical issue requiring project team attention",Medium,Open,2025-07-17,NULL
+ISS062,PRJ022,Quality,"Quality issue requiring project team attention",High,Resolved,2025-08-16,2025-09-08
+ISS063,PRJ022,Supplier,"Supplier issue requiring project team attention",Low,Open,2025-12-15,NULL
+ISS064,PRJ022,Quality,"Quality issue requiring project team attention",Medium,Resolved,2025-02-26,2025-04-04
+ISS065,PRJ023,Resource,"Resource issue requiring project team attention",Critical,"In Progress",2025-08-09,NULL
+ISS066,PRJ023,Budget,"Budget issue requiring project team attention",High,Resolved,2025-09-19,2025-09-30
+ISS067,PRJ023,Supplier,"Supplier issue requiring project team attention",High,Resolved,2025-11-25,2025-12-01
+ISS068,PRJ023,Technical,"Technical issue requiring project team attention",Low,Escalated,2025-01-04,NULL
+ISS069,PRJ024,Schedule,"Schedule issue requiring project team attention",Medium,Escalated,2025-04-23,NULL
+ISS070,PRJ024,Resource,"Resource issue requiring project team attention",High,Resolved,2025-03-28,2025-05-26
+ISS071,PRJ025,Technical,"Technical issue requiring project team attention",Medium,Resolved,2025-02-12,2025-03-29
+ISS072,PRJ025,Quality,"Quality issue requiring project team attention",Low,Escalated,2025-11-10,NULL
+ISS073,PRJ025,Quality,"Quality issue requiring project team attention",Medium,"In Progress",2025-07-21,NULL
+ISS074,PRJ026,Quality,"Quality issue requiring project team attention",Low,"In Progress",2025-08-03,NULL
+ISS075,PRJ027,Supplier,"Supplier issue requiring project team attention",Low,Escalated,2025-01-01,NULL
+ISS076,PRJ027,Quality,"Quality issue requiring project team attention",Medium,Open,2025-07-23,NULL
+ISS077,PRJ028,Schedule,"Schedule issue requiring project team attention",Low,Escalated,2025-02-24,NULL
+ISS078,PRJ028,Communication,"Communication issue requiring project team attention",Low,Resolved,2025-06-10,2025-06-21
+ISS079,PRJ029,Communication,"Communication issue requiring project team attention",High,"In Progress",2025-11-22,NULL
+ISS080,PRJ029,Resource,"Resource issue requiring project team attention",Low,Open,2025-10-21,NULL
+ISS081,PRJ029,Resource,"Resource issue requiring project team attention",Medium,"In Progress",2025-11-24,NULL
+ISS082,PRJ029,Resource,"Resource issue requiring project team attention",High,Escalated,2025-04-03,NULL
+ISS083,PRJ030,Resource,"Resource issue requiring project team attention",High,Escalated,2025-06-14,NULL
+ISS084,PRJ031,Communication,"Communication issue requiring project team attention",Low,Resolved,2025-11-03,2025-11-21
+ISS085,PRJ031,Supplier,"Supplier issue requiring project team attention",Medium,Resolved,2025-12-01,2026-01-27
+ISS086,PRJ031,Communication,"Communication issue requiring project team attention",Medium,Resolved,2025-04-17,2025-05-28
+ISS087,PRJ032,Quality,"Quality issue requiring project team attention",Medium,Open,2025-04-16,NULL
+ISS088,PRJ032,Schedule,"Schedule issue requiring project team attention",Low,Escalated,2025-11-20,NULL
+ISS089,PRJ033,Supplier,"Supplier issue requiring project team attention",High,Open,2025-06-11,NULL
+ISS090,PRJ034,Schedule,"Schedule issue requiring project team attention",High,Escalated,2025-06-18,NULL
+ISS091,PRJ034,Quality,"Quality issue requiring project team attention",Low,Escalated,2025-02-01,NULL
+ISS092,PRJ035,Technical,"Technical issue requiring project team attention",Medium,Open,2025-01-26,NULL
+ISS093,PRJ036,Supplier,"Supplier issue requiring project team attention",Medium,Escalated,2025-07-23,NULL
+ISS094,PRJ036,Schedule,"Schedule issue requiring project team attention",Low,"In Progress",2025-05-03,NULL
+ISS095,PRJ036,Budget,"Budget issue requiring project team attention",Low,"In Progress",2025-03-18,NULL
+ISS096,PRJ036,Budget,"Budget issue requiring project team attention",Medium,Open,2025-05-23,NULL
+ISS097,PRJ037,Quality,"Quality issue requiring project team attention",Critical,"In Progress",2025-01-08,NULL
+ISS098,PRJ037,Technical,"Technical issue requiring project team attention",High,Open,2025-08-20,NULL
+ISS099,PRJ037,Supplier,"Supplier issue requiring project team attention",Low,"In Progress",2025-02-01,NULL
+ISS100,PRJ037,Quality,"Quality issue requiring project team attention",Low,Open,2025-03-16,NULL
+ISS101,PRJ038,Supplier,"Supplier issue requiring project team attention",Medium,Resolved,2025-03-12,2025-03-23
+ISS102,PRJ038,Quality,"Quality issue requiring project team attention",High,Resolved,2025-12-04,2026-01-25
+ISS103,PRJ038,Technical,"Technical issue requiring project team attention",Medium,Escalated,2025-05-17,NULL
+ISS104,PRJ039,Budget,"Budget issue requiring project team attention",High,Open,2025-08-15,NULL
+ISS105,PRJ040,Technical,"Technical issue requiring project team attention",Medium,"In Progress",2025-06-06,NULL
+ISS106,PRJ040,Budget,"Budget issue requiring project team attention",High,Open,2025-04-24,NULL
+ISS107,PRJ040,Supplier,"Supplier issue requiring project team attention",Low,Open,2025-04-02,NULL
+ISS108,PRJ041,Budget,"Budget issue requiring project team attention",Medium,"In Progress",2025-03-28,NULL
+ISS109,PRJ041,Technical,"Technical issue requiring project team attention",Medium,Escalated,2025-04-11,NULL
+ISS110,PRJ041,Resource,"Resource issue requiring project team attention",Medium,Resolved,2025-05-27,2025-06-03
+ISS111,PRJ041,Supplier,"Supplier issue requiring project team attention",Medium,Open,2025-03-08,NULL
+ISS112,PRJ042,Schedule,"Schedule issue requiring project team attention",Low,Escalated,2025-05-25,NULL
+ISS113,PRJ043,Budget,"Budget issue requiring project team attention",Low,Escalated,2025-01-12,NULL
+ISS114,PRJ043,Resource,"Resource issue requiring project team attention",Medium,Resolved,2025-12-20,2026-01-07
+ISS115,PRJ043,Schedule,"Schedule issue requiring project team attention",Medium,Escalated,2025-04-24,NULL
+ISS116,PRJ044,Resource,"Resource issue requiring project team attention",Low,Escalated,2025-01-08,NULL
+ISS117,PRJ044,Supplier,"Supplier issue requiring project team attention",Medium,Open,2025-06-01,NULL
+ISS118,PRJ045,Communication,"Communication issue requiring project team attention",High,Resolved,2025-02-07,2025-03-15
+ISS119,PRJ045,Resource,"Resource issue requiring project team attention",Medium,Open,2025-03-23,NULL
+ISS120,PRJ045,Budget,"Budget issue requiring project team attention",Low,"In Progress",2025-09-14,NULL
+ISS121,PRJ045,Quality,"Quality issue requiring project team attention",High,Escalated,2025-12-03,NULL
+ISS122,PRJ046,Supplier,"Supplier issue requiring project team attention",Low,Escalated,2025-02-19,NULL
+ISS123,PRJ047,Schedule,"Schedule issue requiring project team attention",Medium,"In Progress",2025-04-10,NULL
+ISS124,PRJ048,Communication,"Communication issue requiring project team attention",Medium,Escalated,2025-12-27,NULL
+ISS125,PRJ048,Quality,"Quality issue requiring project team attention",Medium,Escalated,2025-05-08,NULL
+ISS126,PRJ048,Technical,"Technical issue requiring project team attention",High,"In Progress",2025-10-04,NULL
+ISS127,PRJ049,Technical,"Technical issue requiring project team attention",Low,Escalated,2025-06-14,NULL
+ISS128,PRJ049,Technical,"Technical issue requiring project team attention",Medium,"In Progress",2025-08-10,NULL
+ISS129,PRJ050,Budget,"Budget issue requiring project team attention",High,Open,2025-03-26,NULL
+ISS130,PRJ050,Quality,"Quality issue requiring project team attention",Medium,Open,2025-04-27,NULL
+ISS131,PRJ050,Communication,"Communication issue requiring project team attention",Medium,Open,2025-12-08,NULL
+ISS132,PRJ050,Budget,"Budget issue requiring project team attention",Medium,Open,2025-11-10,NULL
+ISS133,PRJ051,Communication,"Communication issue requiring project team attention",Critical,Open,2025-07-28,NULL
+ISS134,PRJ051,Schedule,"Schedule issue requiring project team attention",Medium,"In Progress",2025-02-15,NULL
+ISS135,PRJ051,Technical,"Technical issue requiring project team attention",High,"In Progress",2025-02-01,NULL
+ISS136,PRJ052,Communication,"Communication issue requiring project team attention",High,"In Progress",2025-03-07,NULL
+ISS137,PRJ053,Budget,"Budget issue requiring project team attention",Medium,Open,2025-10-19,NULL
+ISS138,PRJ053,Budget,"Budget issue requiring project team attention",High,Open,2025-01-03,NULL
+ISS139,PRJ053,Resource,"Resource issue requiring project team attention",High,Escalated,2025-03-03,NULL
+ISS140,PRJ053,Communication,"Communication issue requiring project team attention",High,Resolved,2025-02-02,2025-03-06
+ISS141,PRJ054,Resource,"Resource issue requiring project team attention",High,Escalated,2025-12-13,NULL
+ISS142,PRJ055,Technical,"Technical issue requiring project team attention",Medium,Escalated,2025-03-12,NULL
+ISS143,PRJ055,Resource,"Resource issue requiring project team attention",High,Resolved,2025-05-15,2025-07-13
+ISS144,PRJ055,Resource,"Resource issue requiring project team attention",Low,"In Progress",2025-11-10,NULL
+ISS145,PRJ055,Schedule,"Schedule issue requiring project team attention",Medium,Escalated,2025-01-03,NULL
+ISS146,PRJ056,Schedule,"Schedule issue requiring project team attention",Low,"In Progress",2025-11-26,NULL
+ISS147,PRJ056,Supplier,"Supplier issue requiring project team attention",Low,Open,2025-07-26,NULL
+ISS148,PRJ056,Quality,"Quality issue requiring project team attention",Medium,Escalated,2025-06-19,NULL
+ISS149,PRJ057,Schedule,"Schedule issue requiring project team attention",Medium,Open,2025-06-20,NULL
+ISS150,PRJ057,Resource,"Resource issue requiring project team attention",Low,Resolved,2025-01-26,2025-02-28
+ISS151,PRJ057,Supplier,"Supplier issue requiring project team attention",Medium,"In Progress",2025-03-04,NULL
+ISS152,PRJ058,Quality,"Quality issue requiring project team attention",Low,Open,2025-04-19,NULL
+ISS153,PRJ058,Communication,"Communication issue requiring project team attention",Critical,Escalated,2025-06-27,NULL
+ISS154,PRJ059,Resource,"Resource issue requiring project team attention",Low,Resolved,2025-12-23,2026-01-17
+ISS155,PRJ059,Supplier,"Supplier issue requiring project team attention",Low,Resolved,2025-10-19,2025-10-31
+ISS156,PRJ060,Communication,"Communication issue requiring project team attention",Critical,Escalated,2025-09-10,NULL
+ISS157,PRJ060,Resource,"Resource issue requiring project team attention",Medium,Open,2025-01-08,NULL
+ISS158,PRJ061,Technical,"Technical issue requiring project team attention",Medium,Open,2025-06-20,NULL
+ISS159,PRJ061,Resource,"Resource issue requiring project team attention",High,Resolved,2025-12-06,2026-01-29
+ISS160,PRJ062,Technical,"Technical issue requiring project team attention",Low,"In Progress",2025-02-28,NULL
+ISS161,PRJ062,Supplier,"Supplier issue requiring project team attention",High,Open,2025-06-23,NULL
+ISS162,PRJ062,Quality,"Quality issue requiring project team attention",Medium,Open,2025-06-10,NULL
+ISS163,PRJ063,Resource,"Resource issue requiring project team attention",Critical,Escalated,2025-11-16,NULL
+ISS164,PRJ063,Quality,"Quality issue requiring project team attention",Medium,Resolved,2025-04-22,2025-06-01
+ISS165,PRJ063,Communication,"Communication issue requiring project team attention",Low,Resolved,2025-12-23,2026-01-13
+ISS166,PRJ064,Resource,"Resource issue requiring project team attention",High,Escalated,2025-10-02,NULL
+ISS167,PRJ064,Resource,"Resource issue requiring project team attention",Medium,"In Progress",2025-11-19,NULL
+ISS168,PRJ065,Schedule,"Schedule issue requiring project team attention",Low,Open,2025-04-12,NULL
+ISS169,PRJ066,Resource,"Resource issue requiring project team attention",Medium,Open,2025-12-22,NULL
+ISS170,PRJ066,Quality,"Quality issue requiring project team attention",High,Resolved,2025-08-01,2025-08-20
+ISS171,PRJ066,Resource,"Resource issue requiring project team attention",Low,Open,2025-06-09,NULL
+ISS172,PRJ067,Quality,"Quality issue requiring project team attention",Low,Escalated,2025-08-24,NULL
+ISS173,PRJ068,Resource,"Resource issue requiring project team attention",High,Escalated,2025-07-12,NULL
+ISS174,PRJ068,Supplier,"Supplier issue requiring project team attention",Medium,Escalated,2025-10-21,NULL
+ISS175,PRJ068,Communication,"Communication issue requiring project team attention",Medium,"In Progress",2025-08-03,NULL
+ISS176,PRJ068,Communication,"Communication issue requiring project team attention",High,Resolved,2025-01-11,2025-01-30
+ISS177,PRJ069,Technical,"Technical issue requiring project team attention",Medium,Escalated,2025-03-24,NULL
+ISS178,PRJ070,Supplier,"Supplier issue requiring project team attention",High,Open,2025-06-20,NULL
+ISS179,PRJ071,Quality,"Quality issue requiring project team attention",Low,"In Progress",2025-10-14,NULL
+ISS180,PRJ071,Resource,"Resource issue requiring project team attention",Low,Resolved,2025-04-07,2025-05-06
+ISS181,PRJ071,Quality,"Quality issue requiring project team attention",Medium,Resolved,2025-11-10,2025-12-02
+ISS182,PRJ071,Resource,"Resource issue requiring project team attention",Low,Escalated,2025-10-18,NULL
+ISS183,PRJ072,Resource,"Resource issue requiring project team attention",Low,Open,2025-07-03,NULL
+ISS184,PRJ072,Budget,"Budget issue requiring project team attention",High,Escalated,2025-04-04,NULL
+ISS185,PRJ072,Technical,"Technical issue requiring project team attention",Low,Resolved,2025-02-16,2025-04-14
+ISS186,PRJ072,Technical,"Technical issue requiring project team attention",Medium,Escalated,2025-08-16,NULL
+ISS187,PRJ073,Technical,"Technical issue requiring project team attention",Medium,Escalated,2025-03-12,NULL
+ISS188,PRJ073,Schedule,"Schedule issue requiring project team attention",Medium,Escalated,2025-01-09,NULL
+ISS189,PRJ073,Schedule,"Schedule issue requiring project team attention",Medium,"In Progress",2025-05-19,NULL
+ISS190,PRJ074,Resource,"Resource issue requiring project team attention",High,Open,2025-02-22,NULL
+ISS191,PRJ075,Communication,"Communication issue requiring project team attention",Medium,"In Progress",2025-09-02,NULL
+ISS192,PRJ075,Communication,"Communication issue requiring project team attention",Medium,Escalated,2025-09-22,NULL
+ISS193,PRJ075,Communication,"Communication issue requiring project team attention",High,"In Progress",2025-08-10,NULL
+ISS194,PRJ076,Schedule,"Schedule issue requiring project team attention",High,Open,2025-09-19,NULL
+ISS195,PRJ077,Technical,"Technical issue requiring project team attention",High,Escalated,2025-03-06,NULL
+ISS196,PRJ077,Resource,"Resource issue requiring project team attention",High,"In Progress",2025-01-14,NULL
+ISS197,PRJ078,Quality,"Quality issue requiring project team attention",Medium,"In Progress",2025-10-09,NULL
+ISS198,PRJ079,Quality,"Quality issue requiring project team attention",High,Open,2025-02-13,NULL
+ISS199,PRJ079,Supplier,"Supplier issue requiring project team attention",Medium,Resolved,2025-05-17,2025-06-18
+ISS200,PRJ079,Communication,"Communication issue requiring project team attention",Low,Escalated,2025-02-14,NULL
+ISS201,PRJ080,Resource,"Resource issue requiring project team attention",Medium,Open,2025-02-19,NULL
+ISS202,PRJ080,Communication,"Communication issue requiring project team attention",Low,Resolved,2025-09-12,2025-11-10
+ISS203,PRJ081,Budget,"Budget issue requiring project team attention",Medium,Escalated,2025-10-20,NULL
+ISS204,PRJ081,Schedule,"Schedule issue requiring project team attention",Low,Resolved,2025-07-05,2025-08-16
+ISS205,PRJ081,Supplier,"Supplier issue requiring project team attention",Medium,Escalated,2025-01-13,NULL
+ISS206,PRJ081,Budget,"Budget issue requiring project team attention",Medium,Open,2025-12-16,NULL
+ISS207,PRJ082,Budget,"Budget issue requiring project team attention",Low,Resolved,2025-05-09,2025-07-04
+ISS208,PRJ082,Schedule,"Schedule issue requiring project team attention",High,Open,2025-04-05,NULL
+ISS209,PRJ082,Budget,"Budget issue requiring project team attention",Critical,Escalated,2025-06-09,NULL
+ISS210,PRJ083,Supplier,"Supplier issue requiring project team attention",Medium,"In Progress",2025-08-07,NULL
+ISS211,PRJ083,Communication,"Communication issue requiring project team attention",Medium,Escalated,2025-09-28,NULL
+ISS212,PRJ083,Budget,"Budget issue requiring project team attention",High,"In Progress",2025-02-10,NULL
+ISS213,PRJ083,Quality,"Quality issue requiring project team attention",Medium,"In Progress",2025-09-19,NULL
+ISS214,PRJ084,Resource,"Resource issue requiring project team attention",Low,"In Progress",2025-01-08,NULL
+ISS215,PRJ085,Schedule,"Schedule issue requiring project team attention",Low,Resolved,2025-12-07,2025-12-27
+ISS216,PRJ086,Communication,"Communication issue requiring project team attention",Medium,Escalated,2025-11-04,NULL
+ISS217,PRJ086,Quality,"Quality issue requiring project team attention",Low,Resolved,2025-08-20,2025-09-20
+ISS218,PRJ086,Resource,"Resource issue requiring project team attention",Critical,Escalated,2025-10-18,NULL
+ISS219,PRJ087,Budget,"Budget issue requiring project team attention",Low,Resolved,2025-12-27,2026-02-12
+ISS220,PRJ087,Technical,"Technical issue requiring project team attention",Medium,Escalated,2025-01-06,NULL
+ISS221,PRJ087,Communication,"Communication issue requiring project team attention",Medium,"In Progress",2025-04-21,NULL
+ISS222,PRJ088,Quality,"Quality issue requiring project team attention",Low,Escalated,2025-09-01,NULL
+ISS223,PRJ088,Communication,"Communication issue requiring project team attention",High,Open,2025-08-05,NULL
+ISS224,PRJ089,Supplier,"Supplier issue requiring project team attention",High,"In Progress",2025-05-20,NULL
+ISS225,PRJ089,Communication,"Communication issue requiring project team attention",High,Resolved,2025-07-13,2025-09-08
+ISS226,PRJ090,Schedule,"Schedule issue requiring project team attention",Medium,Escalated,2025-05-22,NULL
+ISS227,PRJ090,Supplier,"Supplier issue requiring project team attention",High,Escalated,2025-10-04,NULL
+ISS228,PRJ090,Technical,"Technical issue requiring project team attention",Medium,Resolved,2025-09-21,2025-11-01
+ISS229,PRJ091,Budget,"Budget issue requiring project team attention",Medium,Escalated,2025-02-11,NULL
+ISS230,PRJ091,Budget,"Budget issue requiring project team attention",Medium,Resolved,2025-05-21,2025-07-08
+ISS231,PRJ091,Quality,"Quality issue requiring project team attention",Medium,"In Progress",2025-09-25,NULL
+ISS232,PRJ092,Technical,"Technical issue requiring project team attention",High,Escalated,2025-11-11,NULL
+ISS233,PRJ092,Quality,"Quality issue requiring project team attention",Low,Open,2025-11-16,NULL
+ISS234,PRJ093,Budget,"Budget issue requiring project team attention",High,Escalated,2025-07-24,NULL
+ISS235,PRJ093,Technical,"Technical issue requiring project team attention",Medium,"In Progress",2025-06-24,NULL
+ISS236,PRJ093,Quality,"Quality issue requiring project team attention",Low,Escalated,2025-11-12,NULL
+ISS237,PRJ094,Communication,"Communication issue requiring project team attention",Low,"In Progress",2025-05-04,NULL
+ISS238,PRJ094,Schedule,"Schedule issue requiring project team attention",Low,Resolved,2025-12-26,2026-02-02
+ISS239,PRJ094,Communication,"Communication issue requiring project team attention",High,Resolved,2025-11-03,2025-11-20
+ISS240,PRJ095,Resource,"Resource issue requiring project team attention",High,Resolved,2025-07-26,2025-09-23
+ISS241,PRJ095,Budget,"Budget issue requiring project team attention",Medium,Resolved,2025-08-28,2025-09-07
+ISS242,PRJ095,Schedule,"Schedule issue requiring project team attention",Low,Open,2025-08-07,NULL
+ISS243,PRJ096,Communication,"Communication issue requiring project team attention",Medium,Resolved,2025-07-02,2025-08-29
+ISS244,PRJ097,Resource,"Resource issue requiring project team attention",Critical,Resolved,2025-07-19,2025-09-17
+ISS245,PRJ097,Schedule,"Schedule issue requiring project team attention",Low,"In Progress",2025-02-16,NULL
+ISS246,PRJ098,Quality,"Quality issue requiring project team attention",Critical,Resolved,2025-11-02,2025-11-05
+ISS247,PRJ098,Schedule,"Schedule issue requiring project team attention",Medium,"In Progress",2025-10-25,NULL
+ISS248,PRJ098,Resource,"Resource issue requiring project team attention",Medium,Open,2025-03-20,NULL
+ISS249,PRJ099,Quality,"Quality issue requiring project team attention",Medium,Escalated,2025-08-13,NULL
+ISS250,PRJ099,Technical,"Technical issue requiring project team attention",Low,"In Progress",2025-12-12,NULL
+ISS251,PRJ099,Technical,"Technical issue requiring project team attention",High,"In Progress",2025-01-22,NULL
+ISS252,PRJ099,Technical,"Technical issue requiring project team attention",Medium,"In Progress",2025-04-23,NULL
+ISS253,PRJ100,Budget,"Budget issue requiring project team attention",Low,Escalated,2025-09-19,NULL
+ISS254,PRJ100,Budget,"Budget issue requiring project team attention",Low,Open,2025-05-10,NULL
+ISS255,PRJ100,Schedule,"Schedule issue requiring project team attention",High,Resolved,2025-07-22,2025-08-02
+ISS256,PRJ101,Schedule,"Schedule issue requiring project team attention",Medium,"In Progress",2025-03-26,NULL
+ISS257,PRJ101,Schedule,"Schedule issue requiring project team attention",Low,"In Progress",2025-12-05,NULL
+ISS258,PRJ101,Resource,"Resource issue requiring project team attention",High,"In Progress",2025-02-12,NULL
+ISS259,PRJ102,Schedule,"Schedule issue requiring project team attention",High,Resolved,2025-09-20,2025-09-26
+ISS260,PRJ103,Quality,"Quality issue requiring project team attention",Low,Open,2025-01-23,NULL
+ISS261,PRJ104,Schedule,"Schedule issue requiring project team attention",Medium,Open,2025-09-09,NULL
+ISS262,PRJ105,Quality,"Quality issue requiring project team attention",Low,Open,2025-05-14,NULL
+ISS263,PRJ105,Quality,"Quality issue requiring project team attention",Low,Resolved,2025-10-20,2025-12-06
+ISS264,PRJ105,Resource,"Resource issue requiring project team attention",Medium,Open,2025-09-24,NULL
+ISS265,PRJ105,Supplier,"Supplier issue requiring project team attention",Low,Open,2025-02-16,NULL
+ISS266,PRJ106,Supplier,"Supplier issue requiring project team attention",Low,Resolved,2025-09-07,2025-10-02
+ISS267,PRJ106,Quality,"Quality issue requiring project team attention",Medium,"In Progress",2025-01-18,NULL
+ISS268,PRJ107,Resource,"Resource issue requiring project team attention",Medium,Escalated,2025-06-08,NULL
+ISS269,PRJ107,Technical,"Technical issue requiring project team attention",Low,Open,2025-02-27,NULL
+ISS270,PRJ107,Supplier,"Supplier issue requiring project team attention",Medium,"In Progress",2025-02-25,NULL
+ISS271,PRJ107,Supplier,"Supplier issue requiring project team attention",Low,Open,2025-05-21,NULL
+ISS272,PRJ108,Schedule,"Schedule issue requiring project team attention",Critical,Resolved,2025-05-15,2025-05-21
+ISS273,PRJ108,Technical,"Technical issue requiring project team attention",High,Open,2025-05-12,NULL
+ISS274,PRJ109,Schedule,"Schedule issue requiring project team attention",High,Open,2025-01-01,NULL
+ISS275,PRJ109,Communication,"Communication issue requiring project team attention",Low,"In Progress",2025-06-12,NULL
+ISS276,PRJ109,Schedule,"Schedule issue requiring project team attention",Critical,Resolved,2025-12-03,2025-12-29
+ISS277,PRJ110,Resource,"Resource issue requiring project team attention",Low,Escalated,2025-08-09,NULL
+ISS278,PRJ110,Communication,"Communication issue requiring project team attention",Medium,Escalated,2025-07-21,NULL
+ISS279,PRJ110,Communication,"Communication issue requiring project team attention",Low,"In Progress",2025-12-24,NULL
+ISS280,PRJ111,Communication,"Communication issue requiring project team attention",Low,Escalated,2025-10-16,NULL
+ISS281,PRJ112,Resource,"Resource issue requiring project team attention",Medium,Resolved,2025-10-01,2025-11-28
+ISS282,PRJ112,Quality,"Quality issue requiring project team attention",High,"In Progress",2025-08-16,NULL
+ISS283,PRJ112,Technical,"Technical issue requiring project team attention",High,Escalated,2025-01-03,NULL
+ISS284,PRJ112,Budget,"Budget issue requiring project team attention",Medium,Open,2025-12-28,NULL
+ISS285,PRJ113,Quality,"Quality issue requiring project team attention",High,Open,2025-07-22,NULL
+ISS286,PRJ113,Quality,"Quality issue requiring project team attention",Low,Resolved,2025-11-22,2026-01-05
+ISS287,PRJ114,Resource,"Resource issue requiring project team attention",High,Open,2025-01-21,NULL
+ISS288,PRJ114,Resource,"Resource issue requiring project team attention",Medium,Escalated,2025-08-28,NULL
+ISS289,PRJ114,Resource,"Resource issue requiring project team attention",Low,Escalated,2025-06-08,NULL
+ISS290,PRJ114,Budget,"Budget issue requiring project team attention",Critical,Open,2025-09-08,NULL
+ISS291,PRJ115,Schedule,"Schedule issue requiring project team attention",High,Open,2025-08-15,NULL
+ISS292,PRJ115,Communication,"Communication issue requiring project team attention",Medium,Open,2025-08-15,NULL
+ISS293,PRJ115,Budget,"Budget issue requiring project team attention",Low,Escalated,2025-12-21,NULL
+ISS294,PRJ115,Technical,"Technical issue requiring project team attention",Low,Escalated,2025-01-18,NULL
+ISS295,PRJ116,Communication,"Communication issue requiring project team attention",Low,Resolved,2025-09-18,2025-10-04
+ISS296,PRJ117,Budget,"Budget issue requiring project team attention",Medium,Open,2025-04-28,NULL
+ISS297,PRJ117,Schedule,"Schedule issue requiring project team attention",Medium,Escalated,2025-12-22,NULL
+ISS298,PRJ117,Budget,"Budget issue requiring project team attention",High,Open,2025-02-25,NULL
+ISS299,PRJ117,Quality,"Quality issue requiring project team attention",Low,Resolved,2025-06-27,2025-08-09
+ISS300,PRJ118,Supplier,"Supplier issue requiring project team attention",Medium,Open,2025-01-06,NULL
+ISS301,PRJ118,Schedule,"Schedule issue requiring project team attention",Low,Escalated,2025-02-09,NULL
+ISS302,PRJ118,Supplier,"Supplier issue requiring project team attention",Low,Open,2025-07-07,NULL
+ISS303,PRJ119,Communication,"Communication issue requiring project team attention",High,Resolved,2025-02-25,2025-03-26
+ISS304,PRJ119,Technical,"Technical issue requiring project team attention",High,Open,2025-08-15,NULL
+ISS305,PRJ119,Quality,"Quality issue requiring project team attention",Medium,"In Progress",2025-08-01,NULL
+ISS306,PRJ119,Supplier,"Supplier issue requiring project team attention",High,Escalated,2025-10-16,NULL
+ISS307,PRJ120,Quality,"Quality issue requiring project team attention",Medium,"In Progress",2025-02-13,NULL
+ISS308,PRJ120,Quality,"Quality issue requiring project team attention",Medium,Resolved,2025-09-13,2025-10-12

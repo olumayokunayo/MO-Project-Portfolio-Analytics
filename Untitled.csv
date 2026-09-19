@@ -1,0 +1,11 @@
+project_manager_id,manager_name,department,allocated_hours,actual_hours,hour_variance,utilisation_percentage
+PM007,"Abdul Burton-Patterson",Finance,22717,22602,-115,99.49
+PM001,"William Jennings",Procurement,30897,30616,-281,99.09
+PM002,"Lesley Wilson-Newman",IT,58482,57743,-739,98.74
+PM006,"Nigel Edwards",Finance,26958,26579,-379,98.59
+PM009,"Miss Olivia Bryan",Procurement,74810,73411,-1399,98.13
+PM003,"Abdul Hopkins",IT,47074,46081,-993,97.89
+PM005,"Tina Foster",Operations,52632,51363,-1269,97.59
+PM010,"Dr Lee Green",IT,45842,44626,-1216,97.35
+PM008,"Sarah Reed-Walsh",Finance,51738,49507,-2231,95.69
+PM004,"Mrs Lauren Green",Procurement,53161,50148,-3013,94.33
